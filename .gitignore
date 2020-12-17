@@ -1,1 +1,6 @@
 /.idea/
+/tensorflow_example/.ipynb_checkpoints/
+/pytorch_tutorials/.ipynb_checkpoints/
+/pytorch_tutorials/data/
+/pytorch_tutorials/model/
+/linear_model/.ipynb_checkpoints/
