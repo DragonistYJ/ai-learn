@@ -1,8 +1,13 @@
 /.idea/
 /tensorflow_example/.ipynb_checkpoints/
-/pytorch_tutorials/.ipynb_checkpoints/
-/pytorch_tutorials/data/
-/pytorch_tutorials/model/
+/PyTorchTutorials/.ipynb_checkpoints/
+/PyTorchTutorials/data/
+/PyTorchTutorials/model/
 /linear_model/.ipynb_checkpoints/
 /back_ward/.ipynb_checkpoints/
 /.ipynb_checkpoints/
+/plot/.ipynb_checkpoints/
+/DecisionTree/.ipynb_checkpoints/
+/SupportVectorMachine/.ipynb_checkpoints/
+/test.py
+/PyTorchTutorials/mnist.pkl.gz
