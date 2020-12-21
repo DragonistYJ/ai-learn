@@ -11,3 +11,6 @@
 /SupportVectorMachine/.ipynb_checkpoints/
 /test.py
 /PyTorchTutorials/mnist.pkl.gz
+/PyTorchTutorials/runs/
+/Clustering/.ipynb_checkpoints/
+/DimensionalReduction/.ipynb_checkpoints/
